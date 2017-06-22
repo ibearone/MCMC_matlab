@@ -2,7 +2,7 @@
 % single run MCMC_metropolis(exchange replica)
 % 2017/6/23
 % Guanxiong Qu
-% quguanxiong@gmail.opcm
+% quguanxiong@gmail.com
 %
 % Parameters:
 % Gamma_old: old configuration
