@@ -2,7 +2,7 @@
 % Example simulation with exchange replica
 % 2017/6/23
 % Guanxiong Qu
-% quguanxiong@gmail.opcm
+% quguanxiong@gmail.com
 %
 % Parameters:
 % Gamma_old: old configuration
@@ -43,6 +43,7 @@ subplot(1,2,1)
 for k=1:T_set
 plot(Ms_tot(:,k))
 hold on;
+end
 %%%plot
 subplot(1,2,2)
 for k=1:T_set
